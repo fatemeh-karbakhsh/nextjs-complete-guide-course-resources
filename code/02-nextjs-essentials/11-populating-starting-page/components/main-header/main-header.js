@@ -5,7 +5,7 @@ import MainHeaderBackground from './main-header-background';
 import logoImg from '@/assets/logo.png';
 import classes from './main-header.module.css';
 
-export default function MainHeader() {
+export default function   MainHeader() {
   return (
     <>
       <MainHeaderBackground />
